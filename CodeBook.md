@@ -29,7 +29,7 @@ Criação do campo ID na tabela X_train
 Faz o merge entre subject_train e y_train e carga na tabela train
 Faz o merge entre train e X_train
 
-Tratamento das tabelas de teste 
+Tratamento das tabelas de teste: 
 Leitura da tabela subject_test da pasta test e carga para a variável subject_test.
 Criação do campo ID na tabela subject_test
 Leitura da tabela X_test da pasta test e carga para a variável X_test.
